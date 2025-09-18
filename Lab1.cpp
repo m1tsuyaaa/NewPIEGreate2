@@ -1,6 +1,7 @@
 /*************************
  * Name:    Katkov Stepan*
  * Project: Lab01        *
+ * Var 8                 *
  * ***********************/
 #include <iostream>
 #include <cmath>
